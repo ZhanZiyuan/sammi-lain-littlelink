@@ -388,6 +388,13 @@ button:hover {
 	--button-border: 1px solid #FFFFFF;
 }
 
+/* NetEase Cloud Music */
+.button-netease-cloud-music {
+	--button-text: #d43c33;
+	--button-background: #242424;
+	--button-border: 1px solid #FFFFFF;
+}
+
 /* Notion */
 .button-notion {
 	--button-text: #000000;
